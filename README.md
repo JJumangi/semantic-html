@@ -9,7 +9,7 @@ For this assignment:
 ![Website Screenshot](./assets/images/SS-6-22.png)
 
 
-## [**Link to Working Version**]()
+## [**Link to Working Version**](https://jjumangi.github.io/semantic-html/)
 
 Thank you for looking at my project!
 -Jon
